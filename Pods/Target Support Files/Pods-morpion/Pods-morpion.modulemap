@@ -1,0 +1,6 @@
+framework module Pods_morpion {
+  umbrella header "Pods-morpion-umbrella.h"
+
+  export *
+  module * { export * }
+}
